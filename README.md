@@ -6,7 +6,6 @@
 
 <p align="center">
   <strong>The Pomodoro Timer That Stays on Top</strong><br/>
-  화면 위에 항상 떠 있는 뽀모도로 타이머
 </p>
 
 <p align="center">
