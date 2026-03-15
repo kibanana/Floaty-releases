@@ -28,12 +28,12 @@ A small, always-on-top timer widget for your desktop. Set a focus duration, keep
 
 ## Download
 
-### Latest: v0.7.0
+### Latest: v1.0.0
 
 | Platform | Installer | Portable |
 |----------|-----------|----------|
-| macOS (Apple Silicon) | [`FloatyPop-0.7.0-mac.dmg`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v0.7.0/FloatyPop-0.7.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v0.7.0/FloatyPop-0.7.0-arm64-mac.zip) |
-| Windows (x64) | [`FloatyPop-0.7.0-win.exe`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v0.7.0/FloatyPop-0.7.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v0.7.0/FloatyPop-0.7.0-portable.exe) |
+| macOS (Apple Silicon) | [`FloatyPop-1.0.0-mac.dmg`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v1.0.0/FloatyPop-1.0.0-mac.dmg) | [`zip`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v1.0.0/FloatyPop-1.0.0-arm64-mac.zip) |
+| Windows (x64) | [`FloatyPop-1.0.0-win.exe`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v1.0.0/FloatyPop-1.0.0-win.exe) | [`portable.exe`](https://github.com/kibanana/Floaty-Pop-releases/releases/download/v1.0.0/FloatyPop-1.0.0-portable.exe) |
 
 [All releases →](https://github.com/kibanana/Floaty-Pop-releases/releases)
 
